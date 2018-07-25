@@ -8,8 +8,7 @@ var CallMe = function callMe(){
   return lyric;
 }
 
-callMe();
-
+function crazy()
 crazy() {
   var crazy = function();
   // fix the code in here:
